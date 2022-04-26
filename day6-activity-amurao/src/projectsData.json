@@ -1,0 +1,30 @@
+[
+    {
+        "projectName":" A Filipino Game: Touch-Taya Desktop Application project (2021)",
+        "description":"A single player touch-taya game ported to desktop application game"
+    },
+    {
+        "projectName":"Program based Quiz Application Project (2020)",
+        "description":"A course-based requirement for Java EE platform"
+    },
+    {
+        "projectName":"Program based Attendance Monitoring System with QR Code Scanning integration/ Course requirement (2020)",
+        "description":"A mobile-based attendance monitoring system with QR Code functionality"
+    },
+    {
+        "projectName":"Customer Relations Management system for Fix N IT Design Solutions Co. (2019)",
+        "description":"A CRM system that we developed during our internship in the company. We made changes in both UI and Backend parts of the project and uploaded it via x10hosting"
+    },
+    {
+        "projectName":"QR-Code based instruction creation and reading application/ Course requirement (2018)",
+        "description":"A mobile-based instruction management system with QR Code functionality"
+    },
+    {
+        "projectName":"Carpark Monitoring System with RFID Integration (2018)",
+        "description":"A Carpark Monitoring System with RFID Integration for a Carpark lot in located in Washington Street, Makati City"
+    },
+    {
+        "projectName":"Student Management and Enlistment System (2017)",
+        "description":"A desktop application project for student management and enlistment for Southeast Asian College"
+    }
+]
